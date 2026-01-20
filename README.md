@@ -1,7 +1,5 @@
 # Mon portefolio de Write-ups (v1)
 
-## ⚠️ En ligne d'ici quelques jours
-
 Bienvenue sur mon **portefolio de write-ups et de défis de code !**
 Ce site regroupera mes résolutions de challenges (LeetCode, CodeWars, TryHackMe, diverses écoles...), avec **mes analyses, méthodes de résolution**, et **apprentissages** au fil du temps.
 
